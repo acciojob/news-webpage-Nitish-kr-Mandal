@@ -1,1 +1,27 @@
-/*  your css code here. If applicable */
+body{
+	background-color: #f5f5f5;
+	text-align:center;
+}
+h1{
+	text-align:center;
+	background-color:#011e29;
+	color:white;
+	padding:10px
+}
+.latest-news-section{
+	width:200px
+}
+#mainDiv{
+	display:flex;
+	justify-content:space-between;
+	justify-items:space-between;
+	padding:10px
+}
+.pictorial-news-section img {
+	display:flex;
+  width:150px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+
